@@ -1,4 +1,4 @@
-# RailTheme for Blender
+# Rail theme for Blender
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Blender 2.8+](https://img.shields.io/badge/Blender-2.8%2B-orange)

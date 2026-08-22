@@ -488,8 +488,8 @@
     </common>
     <view_3d>
       <ThemeView3D
-        grid="#1010108c"
-        grid_major="#3131318c"
+        grid="#55555533"
+        grid_major="#aaaaaa80"
         grid_axis_brightness="0.5"
         clipping_border_3d="#30382bff"
         wire="#a7adb0"
@@ -506,11 +506,11 @@
         empty="#7d878c"
         light="#c8d1c1ff"
         speaker="#c8d1c1"
-        vertex="#ffffff"
-        vertex_select="#c1f100"
+        vertex="#6f6628"
+        vertex_select="#ffffff"
         vertex_size="5"
         edge_select="#0d0d0d"
-        edge_mode_select="#bf80ff"
+        edge_mode_select="#d2c86c"
         face="#282e2200"
         face_select="#d2c86c80"
         face_mode_select="#56654eff"
@@ -526,7 +526,7 @@
         extra_edge_angle="#59552f"
         extra_face_angle="#5f738e"
         extra_face_area="#7ea64b"
-        editmesh_active="#e3803e9e"
+        editmesh_active="#ff8c40bf"
         normal="#529cd7"
         vertex_normal="#d75252"
         split_normal="#aed752"
@@ -563,8 +563,8 @@
             <gradients>
               <ThemeGradientColors
                 background_type="LINEAR"
-                high_gradient="#171d1d"
-                gradient="#0c1011"
+                high_gradient="#1e2626"
+                gradient="#0e1213"
                 >
               </ThemeGradientColors>
             </gradients>

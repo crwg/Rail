@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Blender 2.8+](https://img.shields.io/badge/Blender-2.8%2B-orange)
 
-Dark industrial UI theme for Blender. High contrast, amber accents, retro-futuristic vibe.
+Dark industrial UI theme for Blender. High contrast, amber accents, retro-futuristic vibe inspired by Valve Corporation design code.
 
 ![RailTheme Preview](./Assets/RailTheme.jpg)
 
@@ -21,12 +21,5 @@ Dark industrial UI theme for Blender. High contrast, amber accents, retro-futuri
 
 Works with Blender 2.80+ (including 3.x, 4.x, 5.x).
 
-## Customize
-Edit the XML directly (hex colours `#RRGGBB`). Tweak background, accent, or contrast. Send a PR with your variant.
-
 ## License
 MIT – see [LICENSE](https://github.com/crwg/Rail/blob/main/LICENSE).
-
----
-
-*Get back to creating.* 🚂

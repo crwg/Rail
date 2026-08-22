@@ -43,9 +43,8 @@ If you create an interesting variant, feel free to share it via a pull request!
 
 | Blender Version | Status |
 |-----------------|--------|
-| 2.80 – 2.93     | ✅ Fully supported |
-| 3.0 – 3.6       | ✅ Fully supported |
-| 4.0+            | ✅ Fully supported (tested on 4.2) |
+| 3.0 – 4.6       | ✅ Fully supported |
+| 5.0+            | ✅ Fully supported (tested on 5.2) |
 
 Should you encounter any issues, please [open an issue](https://github.com/yourusername/railtheme-blender/issues).
 
